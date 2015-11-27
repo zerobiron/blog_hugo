@@ -1,0 +1,24 @@
+BaseUrl = "zerobiron.github.io"
+LanguageCode = "zh"
+Title = "Zerobiron-Learn more write less"
+
+[Params]
+  Author = "Zerobiron"
+  Birth = "1994"
+  DateFormat = "Fri, Nov 27, 2016"
+  GoogleAnalyticsUserID = ""
+  GravatarHash = ""
+  Facebook = ""
+  Twitter = ""
+  Github = ""
+  Disqus = ""
+  perPage = 10
+  ShowRelatedPost = true
+  ShowTagCloud = true
+  SyntaxHighlightTheme = "github.min.css"
+  infiniteScroll = true # if true, pagination will disabled.
+
+[Indexes]
+  tag = "tags"
+
+# MetadataFormat = "yaml"
